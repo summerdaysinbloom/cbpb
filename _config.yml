@@ -9,6 +9,6 @@ safe:        true
 auto:        false
 server:      false
 baseurl:    http://summerdaysinbloom.github.io/cbpb/
-permalink: /:title.html
+permalink: /cbpb/:title.html
 
 url: http://summerdaysinbloom.github.io/cbpb/
