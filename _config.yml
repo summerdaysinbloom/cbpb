@@ -11,4 +11,8 @@ server:      false
 baseurl:    http://summerdaysinbloom.github.io/cbpb/
 permalink: /cbpb/:title.html
 
+# baseurl: /
+# permalink: /:title.html
+
 url: http://summerdaysinbloom.github.io/cbpb/
+# url: http://localhost:4000/
