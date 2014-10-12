@@ -9,10 +9,10 @@ safe:        true
 auto:        false
 server:      false
 baseurl:    http://summerdaysinbloom.github.io/cbpb/
-permalink: /cbpb/:title.html
+permalink: /blog/:title.html
 
 # baseurl: /
-# permalink: /:title.html
+# permalink: /blog/:title.html
 
 url: http://summerdaysinbloom.github.io/cbpb/
-# url: http://localhost:4000/
+# url: http:s//localhost:4000/
